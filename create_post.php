@@ -4,12 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Single Post</title>
+    <title>Create Posts</title>
 </head>
 <body>
-    <?php include 'db.php' // konekcija sa bazom preko db.php?>
     <?php include 'header.php' ?>
-    <?php include 'side_bar.php' ?>
-    <?php include 'footer.php' ?>
+    <?php include 'side-bar' ?>
+    <?php include 'footer' ?>
 </body>
 </html>
